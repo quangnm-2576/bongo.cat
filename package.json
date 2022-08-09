@@ -1,0 +1,23 @@
+{
+  "name": "bongo.cat.pinao",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://bongo.cat\">     <img src=\"https://bongo.cat/meta/thumbnail.png\">   </a>   </p> Hit the bongos like Bongo Cat! https://bongo.cat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangnm-2576/bongo.cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangnm-2576/bongo.cat/issues"
+  },
+  "homepage": "https://github.com/quangnm-2576/bongo.cat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
